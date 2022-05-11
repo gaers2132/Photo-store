@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# Деплой проекта по ссылке:
+
+https://gaers2132.github.io/Photo-store/
+
 ## Available Scripts
 
 In the project directory, you can run:

@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Photo-store/static/css/main.efa24ec4.css",
+    "main.js": "/Photo-store/static/js/main.689f2222.js",
+    "index.html": "/Photo-store/index.html",
+    "main.efa24ec4.css.map": "/Photo-store/static/css/main.efa24ec4.css.map",
+    "main.689f2222.js.map": "/Photo-store/static/js/main.689f2222.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.efa24ec4.css",
+    "static/js/main.689f2222.js"
+  ]
+}
